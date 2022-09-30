@@ -1,0 +1,15 @@
+/Users/kataryzova/Desktop/Seminar4 C#/Task24/bin/Debug/net6.0/Task24
+/Users/kataryzova/Desktop/Seminar4 C#/Task24/bin/Debug/net6.0/Task24.deps.json
+/Users/kataryzova/Desktop/Seminar4 C#/Task24/bin/Debug/net6.0/Task24.runtimeconfig.json
+/Users/kataryzova/Desktop/Seminar4 C#/Task24/bin/Debug/net6.0/Task24.dll
+/Users/kataryzova/Desktop/Seminar4 C#/Task24/bin/Debug/net6.0/Task24.pdb
+/Users/kataryzova/Desktop/Seminar4 C#/Task24/obj/Debug/net6.0/Task24.csproj.AssemblyReference.cache
+/Users/kataryzova/Desktop/Seminar4 C#/Task24/obj/Debug/net6.0/Task24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kataryzova/Desktop/Seminar4 C#/Task24/obj/Debug/net6.0/Task24.AssemblyInfoInputs.cache
+/Users/kataryzova/Desktop/Seminar4 C#/Task24/obj/Debug/net6.0/Task24.AssemblyInfo.cs
+/Users/kataryzova/Desktop/Seminar4 C#/Task24/obj/Debug/net6.0/Task24.csproj.CoreCompileInputs.cache
+/Users/kataryzova/Desktop/Seminar4 C#/Task24/obj/Debug/net6.0/Task24.dll
+/Users/kataryzova/Desktop/Seminar4 C#/Task24/obj/Debug/net6.0/refint/Task24.dll
+/Users/kataryzova/Desktop/Seminar4 C#/Task24/obj/Debug/net6.0/Task24.pdb
+/Users/kataryzova/Desktop/Seminar4 C#/Task24/obj/Debug/net6.0/Task24.genruntimeconfig.cache
+/Users/kataryzova/Desktop/Seminar4 C#/Task24/obj/Debug/net6.0/ref/Task24.dll
